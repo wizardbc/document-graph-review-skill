@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Graph Review"
+  short_description: "Review documents with an evidence-linked graph"
+  default_prompt: "Review this document by section, build an evidence-linked graph, and identify and correct factual errors and contradictions."

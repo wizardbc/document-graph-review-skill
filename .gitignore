@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Review data is private. Keep it outside this repository as the primary safeguard.
+*.sqlite
+*.sqlite3
+*.db
+*.jsonl
+*.hwpx
+*.hwp
+*.docx
+*.pdf
+review-data/
